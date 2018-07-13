@@ -20,5 +20,6 @@
 * [Tool & Tips]
 
 ## Engineering
-* [Principi]
+* [Manifesto](https://github.com/bemindinteractive/handbook/blob/master/engineering-manifesto.md)
+* [Principi](https://github.com/bemindinteractive/handbook/blob/master/engineering-principles.md)
 * [Tool & Tips]
