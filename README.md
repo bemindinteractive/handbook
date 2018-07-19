@@ -20,12 +20,12 @@
 * [Communication Policies](https://github.com/bemindinteractive/handbook/blob/master/content/communication.md)
 
 ## Product Management
-* [Process](https://github.com/bemindinteractive/handbook/blob/master/content/process.md)
+* [Pianificazione Strategica](https://github.com/bemindinteractive/handbook/blob/master/content/process.md)
 * [Performance Review](https://github.com/bemindinteractive/handbook/blob/master/content/performance.md)
 * [Company equipment](https://github.com/bemindinteractive/handbook/blob/master/content/equipment.md)
 
 ## Design
-* [Tool & Tips](https://github.com/bemindinteractive/handbook/blob/master/content/design-tool-tips.md)
+* [Tools](https://github.com/bemindinteractive/handbook/blob/master/content/design-tool-tips.md)
 
 ## Marketing
 * [Tool & Tips](https://github.com/bemindinteractive/handbook/blob/master/content/marketing-tool-tips.md)
