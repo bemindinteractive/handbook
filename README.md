@@ -1,4 +1,4 @@
-# Bemind Employee Handbook
+# Bemind Handbook
 
 ## General
 * [Vision](https://github.com/bemindinteractive/handbook/blob/master/content/vision.md)
@@ -31,6 +31,7 @@
 * [Tool & Tips](https://github.com/bemindinteractive/handbook/blob/master/content/marketing-tool-tips.md)
 
 ## Engineering
-* [Manifesto](https://github.com/bemindinteractive/handbook/blob/master/content/engineering-manifesto.md)
-* [Principi](https://github.com/bemindinteractive/handbook/blob/master/content/engineering-principles.md)
-* [Tool & Tips](https://github.com/bemindinteractive/handbook/blob/master/content/engineering-tool-tips.md)
+* [Manifesto](https://github.com/bemindinteractive/handbook/blob/master/content/engineering_manifesto.md)
+* [Principi](https://github.com/bemindinteractive/handbook/blob/master/content/engineering_principles.md)
+* [Linee Guida Generali](https://github.com/bemindinteractive/handbook/blob/master/content/engineering_general-guidelines.md)
+* [Tool & Tips](https://github.com/bemindinteractive/handbook/blob/master/content/engineering_tool-tips.md)

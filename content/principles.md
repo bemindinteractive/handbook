@@ -1,3 +1,4 @@
+# Principi Guida
 In Bemind ci piace fare le cose per bene, lavoriamo cercando di raggiungere un livello di eccellenza in ogni segmento del business per essere fonte di ispirazione per gli altri.
 
 ## Qualità

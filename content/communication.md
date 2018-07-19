@@ -1,4 +1,4 @@
-#Email
+# Email
 
 ## Meeting Debrief (Recap)
 Il concetto non potrebbe essere più semplice: Un Meeting Debrief è semplicemente un manifesto di tutti i principali takeaway appresi e degli impegni presi nel corso di una riunione.
@@ -13,7 +13,7 @@ L'email deve essere inviata al termine dalla riunione e deve contenere i seguent
 - **Next Steps**
   Passi successivi, es. prossimi incontri, deadline
 
-es.
+_es._
 ```
 Ciao Sara,
 riporto i punti principali della riunione del 5 Luglio:
@@ -52,7 +52,7 @@ L'email di Follow-up deve essere inviata entro 4 ore dal meeting e deve contener
     - Usa questa sezione per riassumere tutti gli impegni dati e ricevuti. Ciò evidenzierà la produttività dell'incontro e creerà fiducia che tu perseguirai.
     - Inoltre, questa componente crea anche un accordo informale che anche l'altra parte seguirà.
 
-es.
+_es._
 ```
 "Ciao Sachin,
 grazie per aver trovato il tempo di incontrarmi oggi.
