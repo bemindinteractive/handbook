@@ -13,6 +13,6 @@
 
 Fermo restando il valore delle voci a destra, consideriamo più importanti le voci a sinistra.
 
-Riferimenti:
+_Riferimenti:_
 * http://agilemanifesto.org/iso/it/manifesto.html
 * The nature of software development - Keep It Simple, Make It Valuable, Build It Piece by Piece
