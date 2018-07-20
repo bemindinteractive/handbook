@@ -4,21 +4,16 @@ I Principi sono necessari perchè le decisioni che si prendono siano //TODO
 
 ***
 # Risultati
-La cosa più importante è il Focus sul risultato. Porta a termine grande quantità di lavoro importante.
-Dimostra costantemente le tue performance cosicché i colleghi possano contare su di te.
+La cosa più importante è il **Focus sul risultato**. Porta a termine grande quantità di lavoro importante.
+Dimostra costantemente le tue performance cosicché i colleghi possano contare su di te e sii concentrato sui tuoi obiettivi.
 **Mostra predisposizione all’azione ed evita le situazioni di analisi paralizzante.**
 In Bemind ci si concentra su grandi risultati ma anche sul processo.
 
 ### Qualità
 Non ci accontentiamo dell’ “abbastanza bene”, ma ci impegniamo a raggiungere  l’eccellenza in tutto quello che facciamo.
-
-
 ***
 
 # Efficienza
-
-### Focus
-// TODO
 
 ### Giudizio
 Prendi decisioni sagge (su persone, tecnologia, business e creatività) evitando le ambiguità e se ne senti il bisogno confrontati con il resto del team.
@@ -34,13 +29,10 @@ Usa la soluzione più semplice e noiosa per un problema e ricorda che "noioso" n
 ***
 
 # Collaborazione
-La collaborazione è il nostro punto di forza.
-Diamo valore alle diverse iniziative promosse dai nostri dipendenti e dai nostri partner. Sviluppiamo relazioni positive, promuoviamo soluzioni innovative e rafforziamo ogni giorno la nostra capacità di raggiungere gli obiettivi prefissati.
+La collaborazione è il nostro punto di forza. Diamo valore alle diverse iniziative promosse dai nostri dipendenti e dai nostri partner. Sviluppiamo relazioni positive, promuoviamo soluzioni innovative e rafforziamo ogni giorno la nostra capacità di raggiungere gli obiettivi prefissati.
 
-### Trasparenza
-
-Dai merito a chi ha il merito,
-Il feedback riguarda sempre il tuo lavoro e non la tua persona. Ciò non significa che sarà facile darlo o riceverlo.
+### Fiducia e Trasparenza
+Riusciamo insieme quando ci fidiamo l'uno dell'altro. La fiducia è la forza che alimenta ogni interazione sui team. Solo quando ci fidiamo l'un l'altro possiamo accettare i feedback e le opinioni che ci permettono di essere creativi e di successo. Bisogna condividere una profonda visibilità su come vengono prese le nostre decisioni. Quando creiamo fiducia attraverso una buona comunicazione, creiamo un ambiente per una comunicazione migliore in futuro. Dai merito a chi ha il merito. Il feedback riguarda sempre il tuo lavoro e non la tua persona. Ciò non significa che sarà facile darlo o riceverlo.
 
 ### Chiarezza
 Sii schietto. Ogni volta che parliamo - internamente o esternamente - dovremmo parlare semplicemente e chiaramente.
@@ -57,8 +49,8 @@ Sii conciso nel discorso e nella scrittura. Tratta le persone con rispetto indip
 
 ### Fai domande
 Le discussioni sono importanti, anche quelle più accese. Servono a smuovere le cose e a generare nuove prospettive.
-Fai parlare la tua mente, ma nello stesso tempo sii rispettoso anche di chi ha la voce più piccola della tua. Sii critico ed onesto, ma sempre in modo costruttivo.
-Dalle discussioni si creano insieme nuove cose, nuovi progetti, nuove soluzioni.
+Fai parlare la tua mente, ma nello stesso tempo sii rispettoso anche di chi ha la voce più piccola della tua. Sii critico ed onesto, ma sempre in modo costruttivo. Dalle discussioni si creano insieme nuove cose, nuovi progetti, nuove soluzioni.
+Se hai un dubbio, non conosci il significato di un termine, vuoi sapere perchè una cosa si fa in un certo modo, non ci sono problemi. Chiedi!
 
 ### Integrità
 Siamo onesti, affidabili e trasparenti in tutto quello che facciamo.
