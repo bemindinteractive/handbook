@@ -13,6 +13,6 @@ Se si pensa che qualcosa non funziona come dovrebbe, è il caso che si lavori al
 Il nostro spazio di lavoro è anche un posto dove si esplorano idee nuove, si passa il tempo, si pranza insieme, si discutono le migliori soluzioni front-end e si creano prodotti digitali epici. Prenditi cura dello spazio e sentiti a casa.
 Usa la postazione che ritieni più adatto per svolgere il tuo lavoro e se ne senti il bisogno metti le cuffie per trovare la tua concentrazione.
 
-## Vantaggi e flessibilità
+## Vantaggi e flessibilità
 La Bemind usa un sistema di orario flessibile, il che significa che siete il vostro capo quando si tratta di definire il vostro calendario quotidiano di otto ore;
 Sappiamo però che facciamo tutti del nostro meglio e ci divertiamo di più quando siamo tutti insieme in ufficio per quanto possibile.
