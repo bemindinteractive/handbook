@@ -1,6 +1,6 @@
 # Principi Guida
 In Bemind ci piace fare le cose per bene, lavoriamo cercando di raggiungere un livello di eccellenza in ogni segmento del business per essere fonte di ispirazione per gli altri.
-I Principi sono necessari perchè le decisioni che si prendono siano //TODO
+I Principi sono necessari perchè bisogna condividere una profonda visibilità su come vengono prese le nostre decisioni e su come 
 
 ***
 # Risultati
@@ -32,7 +32,7 @@ Usa la soluzione più semplice e noiosa per un problema e ricorda che "noioso" n
 La collaborazione è il nostro punto di forza. Diamo valore alle diverse iniziative promosse dai nostri dipendenti e dai nostri partner. Sviluppiamo relazioni positive, promuoviamo soluzioni innovative e rafforziamo ogni giorno la nostra capacità di raggiungere gli obiettivi prefissati.
 
 ### Fiducia e Trasparenza
-Riusciamo insieme quando ci fidiamo l'uno dell'altro. La fiducia è la forza che alimenta ogni interazione sui team. Solo quando ci fidiamo l'un l'altro possiamo accettare i feedback e le opinioni che ci permettono di essere creativi e di successo. Bisogna condividere una profonda visibilità su come vengono prese le nostre decisioni. Quando creiamo fiducia attraverso una buona comunicazione, creiamo un ambiente per una comunicazione migliore in futuro. Dai merito a chi ha il merito. Il feedback riguarda sempre il tuo lavoro e non la tua persona. Ciò non significa che sarà facile darlo o riceverlo.
+Riusciamo insieme quando ci fidiamo l'uno dell'altro. La fiducia è la forza che alimenta ogni interazione sui team. Solo quando ci fidiamo l'un l'altro possiamo accettare i feedback e le opinioni che ci permettono di essere creativi e di successo. Quando creiamo fiducia attraverso una buona comunicazione, creiamo un ambiente per una comunicazione migliore in futuro. Dai merito a chi ha il merito. Il feedback riguarda sempre il tuo lavoro e non la tua persona. Ciò non significa che sarà facile darlo o riceverlo.
 
 ### Chiarezza
 Sii schietto. Ogni volta che parliamo - internamente o esternamente - dovremmo parlare semplicemente e chiaramente.
