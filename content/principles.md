@@ -1,6 +1,6 @@
 # Principi Guida
 In Bemind ci piace fare le cose per bene, lavoriamo cercando di raggiungere un livello di eccellenza in ogni segmento del business per essere fonte di ispirazione per gli altri.
-I Principi sono necessari perchè bisogna condividere una profonda visibilità su come vengono prese le nostre decisioni e su come 
+I Principi sono necessari perchè bisogna condividere una profonda visibilità su come vengono prese le nostre decisioni e su come
 
 ***
 # Risultati
@@ -19,13 +19,11 @@ Non ci accontentiamo dell’ “abbastanza bene”, ma ci impegniamo a raggiunge
 Prendi decisioni sagge (su persone, tecnologia, business e creatività) evitando le ambiguità e se ne senti il bisogno confrontati con il resto del team.
 Identifica le cause alla radice e non fermarti a trattare i sintomi del problema.
 **Separa in modo intelligente cosa deve essere fatto bene ora e cosa può essere migliorato dopo.**
+Usa la soluzione più semplice e noiosa per un problema e ricorda che "noioso" non deve essere scambiato per "cattivo".
 
 ### Iterazione
 Facciamo la minima cosa possibile e la estraiamo il più rapidamente possibile. Se si forniscono suggerimenti che possono essere esclusi dalla prima iterazione, trasformarli in un problema separato che si collega. Non scrivere un piano grande, scrivi solo il primo passo. Abbi fiducia che saprai come procedere dopo che qualcosa è stato rilasciato.
 Cerca sempre di apportare il cambiamento più rapido possibile per migliorare il risultato. **Se pensi che sia meglio di quello che c'è adesso fallo. Non c'è bisogno di aspettare qualcosa di raffinato.**
-
-### Soluzioni noiose
-Usa la soluzione più semplice e noiosa per un problema e ricorda che "noioso" non deve essere scambiato per "cattivo".
 ***
 
 # Collaborazione
@@ -57,3 +55,7 @@ Siamo onesti, affidabili e trasparenti in tutto quello che facciamo.
 
 ### Rispetto
 Sosteniamo uno standard comportamentale che riconosca e dia valore alle iniziative di tutti. Promuoviamo un ambiente di lavoro in cui si incoraggia ad ascoltare e a capire le nostre differenze.
+***
+
+## Gerarchia
+![Gerarchia](https://github.com/bemindinteractive/handbook/blob/master/images/gerarchia.png)
