@@ -1,7 +1,7 @@
 
 # Healthcare
 Il benessere dei nostri dipendenti è importante, per questo offriamo un'assicurazione medica integrativa.
-Per i dipendenti a tempo indeterminato e gli apprendisti, attraverso Il Fondo Est; un fondo di assistenza sanitaria integrativa, offriamo servizi di assistenza medica, dentistica e visiva.
+Per i dipendenti a tempo indeterminato e gli apprendisti, attraverso Il Fondo Est; un fondo di assistenza sanitaria integrativa.
 
 Le prestazioni sanitarie previste dal Fondo Est sono davvero numerose, e possono essere effettuate in strutture pubbliche e private convenzionate UniSalute. Il Piano Sanitario prevede anche la facoltà dell’iscritto di avvalersi, per alcune prestazioni, di strutture sanitarie private non convenzionate da UniSalute per il Fondo Est, ma in questo caso il rimborso potrebbe non essere integrale. Le prestazioni sanitarie comprese nel piano sono elencate di seguito:
 
@@ -26,3 +26,6 @@ Le prestazioni sanitarie previste dal Fondo Est sono davvero numerose, e possono
 Non tutte le prestazioni possono essere rimborsate ma, prima di effettuare visite o analisi, è consigliato consultare on line o telefonicamente il Fondo per conoscere se rientrano o meno nel piano assicurativo. La componente femminile iscritta al Fondo può godere di un’ ulteriore vantaggio, che è l’insieme delle prestazioni rimborsabili comprese nel “Pacchetto maternità”.
 
 I dettagli a riguardo sono disponibili alla pagina web del Fondo con dettaglio per ognuna delle prestazioni previste quali sono i massimali di rimborso.
+
+# Primo incontro dall'assunzione (se da remoto)
+_// TODO_

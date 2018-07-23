@@ -9,9 +9,9 @@
 * [Lavoro in Team](https://github.com/bemindinteractive/handbook/blob/master/content/teamwork.md)
 * [Lavorare in Remoto](https://github.com/bemindinteractive/handbook/blob/master/content/remote.md)
 * [I Nostri Rituali](https://github.com/bemindinteractive/handbook/blob/master/content/rituals.md)
-<!--* [Team](https://github.com/bemindinteractive/handbook/blob/master/content/team.md)
-* [Orario Lavorativo](https://github.com/bemindinteractive/handbook/blob/master/content/worktime.md)-->
-* [Ferie e Permessi](https://github.com/bemindinteractive/handbook/blob/master/content/leave.md)
+<!--* [Team](https://github.com/bemindinteractive/handbook/blob/master/content/team.md)-->
+<!--* [Orario Lavorativo](https://github.com/bemindinteractive/handbook/blob/master/content/worktime.md)-->
+* [Ferie, Permessi e Malattia](https://github.com/bemindinteractive/handbook/blob/master/content/leave.md)
 * [Education](https://github.com/bemindinteractive/handbook/blob/master/content/education.md)
 * [Benefit](https://github.com/bemindinteractive/handbook/blob/master/content/benefit.md)
 

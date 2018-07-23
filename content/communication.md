@@ -1,5 +1,11 @@
 # Email
 
+_// TODO_
+## Ordine del giorno
+Di cosa parlare, cosa decidere
+mettere a conoscenza tutti di cosa si parlerà e analisi a fine riunione se i punti sono stati centrati.
+
+
 ## Meeting Debrief (Recap)
 Il concetto non potrebbe essere più semplice: Un Meeting Debrief è semplicemente un manifesto di tutti i principali takeaway appresi e degli impegni presi nel corso di una riunione.
 L'email viene inviata da chi rappresenta il responsabile del meeting per la riunione, è necessaria per verbalizzare e formalizzare la riunione.
