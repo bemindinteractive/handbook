@@ -1,4 +1,4 @@
 # I Nostri Rituali
 
 ## Meetups
-// TODO
+Tre volte l'anno Bemind organizza dei meetup, 
