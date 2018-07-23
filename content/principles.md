@@ -1,6 +1,6 @@
 # Principi Guida
 In Bemind ci piace fare le cose per bene, lavoriamo cercando di raggiungere un livello di eccellenza in ogni segmento del business per essere fonte di ispirazione per gli altri.
-I Principi sono necessari perchè bisogna condividere una profonda visibilità su come vengono prese le nostre decisioni e su come
+Questa parte è necessaria perché: è importante conoscere e condividere i principi con i quali vengono prese le nostre decisioni e i valori con cui vogliamo portare avanti i nostri progetti.
 
 ***
 # Risultati
@@ -19,11 +19,13 @@ Non ci accontentiamo dell’ “abbastanza bene”, ma ci impegniamo a raggiunge
 Prendi decisioni sagge (su persone, tecnologia, business e creatività) evitando le ambiguità e se ne senti il bisogno confrontati con il resto del team.
 Identifica le cause alla radice e non fermarti a trattare i sintomi del problema.
 **Separa in modo intelligente cosa deve essere fatto bene ora e cosa può essere migliorato dopo.**
-Usa la soluzione più semplice e noiosa per un problema e ricorda che "noioso" non deve essere scambiato per "cattivo".
+Risolvi un problema scegliendo la soluzione più semplice, anche se noiosa. Questo permetterà ad altri, in un futuro, di avere una comprensione più rapida della tua soluzione e di conseguenza poter subentrare nel lavoro senza incomprensioni.
+
 
 ### Iterazione
-Facciamo la minima cosa possibile e la estraiamo il più rapidamente possibile. Se si forniscono suggerimenti che possono essere esclusi dalla prima iterazione, trasformarli in un problema separato che si collega. Non scrivere un piano grande, scrivi solo il primo passo. Abbi fiducia che saprai come procedere dopo che qualcosa è stato rilasciato.
-Cerca sempre di apportare il cambiamento più rapido possibile per migliorare il risultato. **Se pensi che sia meglio di quello che c'è adesso fallo. Non c'è bisogno di aspettare qualcosa di raffinato.**
+Apportiamo modifiche minime e le distribuiamo il più rapidamente possibile.
+Se arrivano suggerimenti che possono essere esclusi dalla prima iterazione, trasformali in un problema separato collegato al principale. Non scrivere un piano a lungo termine dettagliato, scrivi solo il primo passo. Abbi fiducia, saprai come procedere dopo che qualcosa è stato rilasciato.
+Cerca sempre di apportare il cambiamento più rapido possibile per migliorare il risultato, **se pensi che sia meglio di quello che c'è adesso fallo. Non c'è bisogno di aspettare qualcosa di raffinato.**
 ***
 
 # Collaborazione
